@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[682],{4633:function(l,t,r){r.r(t);r(7294);var a=r(4544),e=r(3431);t.default=function(l){var t=l.location;return(0,e.tZ)(a.Z,{location:t,crumbLabel:"關於我"},(0,e.tZ)("div",null,(0,e.tZ)("h1",null,"關於我"),(0,e.tZ)("p",null,"這裡禁止一切血腥，否則只好麥當勞歡樂送了")))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-5625cf33498f30543f8d.js.map

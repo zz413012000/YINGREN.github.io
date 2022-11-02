@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[682],{4633:function(t,l,a){a.r(l);a(7294);var e=a(4544),r=a(3431);l.default=function(t){var l=t.data,a=t.location;return(0,r.tZ)(e.Z,{location:a,crumbLabel:"關於我"},(0,r.tZ)("div",null,(0,r.tZ)("h1",null,"關於我"),(0,r.tZ)("p",null,l.site.siteMetadata.description)))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-a84ddf0f9ccf6c4ca3e0.js.map
